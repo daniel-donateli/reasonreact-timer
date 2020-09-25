@@ -1,0 +1,29 @@
+.container {
+    margin: 36vh auto;
+    display: flex;
+    font-size: 2.5em;
+    text-align: center;
+    justify-content: center;
+}
+
+.timer {
+    width: 15%;
+    padding: 10px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.timer p {
+    margin: 0;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.buttons button{
+    width: 30%;
+    margin: 10px 0;
+}
