@@ -7,8 +7,8 @@
 }
 
 .timer {
-    width: 15%;
-    padding: 10px 0;
+    width: auto;
+    padding: 10px;
     border: 1px solid black;
     border-radius: 5px;
 }
@@ -24,6 +24,6 @@
 }
 
 .buttons button{
-    width: 30%;
+    width: auto;
     margin: 10px 0;
 }
